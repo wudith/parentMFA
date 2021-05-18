@@ -1,0 +1,10 @@
+{
+    "/iui/component": {
+      "target": "https://10.42.126.80:28001",
+      "secure": false,
+      "ws": true,
+      "headers": {
+        "referer": ""
+      }
+    }
+  }
